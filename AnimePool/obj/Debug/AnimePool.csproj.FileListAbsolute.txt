@@ -1,0 +1,8 @@
+c:\users\pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\bin\Debug\AnimePool.exe.config
+c:\users\pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\bin\Debug\AnimePool.exe
+c:\users\pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\bin\Debug\AnimePool.pdb
+c:\users\pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\obj\Debug\AnimePool.csprojResolveAssemblyReference.cache
+c:\users\pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\obj\Debug\AnimePool.exe
+c:\users\pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\obj\Debug\AnimePool.pdb
+C:\Users\Pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\obj\Debug\AnimePool.Manipulator.resources
+C:\Users\Pharkrum\documents\visual studio 2015\Projects\AnimePool\AnimePool\obj\Debug\AnimePool.csproj.GenerateResource.Cache
